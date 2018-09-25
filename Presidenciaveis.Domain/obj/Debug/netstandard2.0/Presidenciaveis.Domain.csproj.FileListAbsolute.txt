@@ -1,0 +1,9 @@
+E:\Projetos\Presidenciaveis\Presidenciaveis.Domain\bin\Debug\netstandard2.0\Presidenciaveis.Domain.deps.json
+E:\Projetos\Presidenciaveis\Presidenciaveis.Domain\bin\Debug\netstandard2.0\Presidenciaveis.Domain.dll
+E:\Projetos\Presidenciaveis\Presidenciaveis.Domain\bin\Debug\netstandard2.0\Presidenciaveis.Domain.pdb
+E:\Projetos\Presidenciaveis\Presidenciaveis.Domain\obj\Debug\netstandard2.0\Presidenciaveis.Domain.csprojAssemblyReference.cache
+E:\Projetos\Presidenciaveis\Presidenciaveis.Domain\obj\Debug\netstandard2.0\Presidenciaveis.Domain.csproj.CoreCompileInputs.cache
+E:\Projetos\Presidenciaveis\Presidenciaveis.Domain\obj\Debug\netstandard2.0\Presidenciaveis.Domain.AssemblyInfoInputs.cache
+E:\Projetos\Presidenciaveis\Presidenciaveis.Domain\obj\Debug\netstandard2.0\Presidenciaveis.Domain.AssemblyInfo.cs
+E:\Projetos\Presidenciaveis\Presidenciaveis.Domain\obj\Debug\netstandard2.0\Presidenciaveis.Domain.dll
+E:\Projetos\Presidenciaveis\Presidenciaveis.Domain\obj\Debug\netstandard2.0\Presidenciaveis.Domain.pdb

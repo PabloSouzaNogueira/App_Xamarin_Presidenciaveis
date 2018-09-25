@@ -1,0 +1,12 @@
+E:\Projetos\Presidenciaveis\Presidenciaveis.Infra.Data\bin\Debug\netstandard2.0\Presidenciaveis.Domain.dll
+E:\Projetos\Presidenciaveis\Presidenciaveis.Infra.Data\obj\Debug\netstandard2.0\Presidenciaveis.Infra.Data.csprojAssemblyReference.cache
+E:\Projetos\Presidenciaveis\Presidenciaveis.Infra.Data\obj\Debug\netstandard2.0\Presidenciaveis.Infra.Data.csproj.CoreCompileInputs.cache
+E:\Projetos\Presidenciaveis\Presidenciaveis.Infra.Data\obj\Debug\netstandard2.0\Presidenciaveis.Infra.Data.AssemblyInfoInputs.cache
+E:\Projetos\Presidenciaveis\Presidenciaveis.Infra.Data\obj\Debug\netstandard2.0\Presidenciaveis.Infra.Data.AssemblyInfo.cs
+E:\Projetos\Presidenciaveis\Presidenciaveis.Infra.Data\bin\Debug\netstandard2.0\Presidenciaveis.Infra.Data.deps.json
+E:\Projetos\Presidenciaveis\Presidenciaveis.Infra.Data\bin\Debug\netstandard2.0\Presidenciaveis.Infra.Data.dll
+E:\Projetos\Presidenciaveis\Presidenciaveis.Infra.Data\bin\Debug\netstandard2.0\Presidenciaveis.Infra.Data.pdb
+E:\Projetos\Presidenciaveis\Presidenciaveis.Infra.Data\bin\Debug\netstandard2.0\Presidenciaveis.Domain.pdb
+E:\Projetos\Presidenciaveis\Presidenciaveis.Infra.Data\obj\Debug\netstandard2.0\Presidenciaveis.Infra.Data.csproj.CopyComplete
+E:\Projetos\Presidenciaveis\Presidenciaveis.Infra.Data\obj\Debug\netstandard2.0\Presidenciaveis.Infra.Data.dll
+E:\Projetos\Presidenciaveis\Presidenciaveis.Infra.Data\obj\Debug\netstandard2.0\Presidenciaveis.Infra.Data.pdb
